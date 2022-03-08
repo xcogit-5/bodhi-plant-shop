@@ -1,0 +1,23 @@
+{
+  "name": "server-side",
+  "version": "1.0.0",
+  "description": "A server for the the site",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bodhi-plant-shop.git"
+  },
+  "keywords": [
+    "express",
+    "react",
+    "node.js"
+  ],
+  "author": "Dipendra Kumar Shah",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
